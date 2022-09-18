@@ -6,9 +6,6 @@
 
 ### De cara a las ventas navideñas, vamos a automatizar el cambio de las monedas para que no se tenga que hacer manualmente. ¡Ganaremos tiempo! Pero primero, hay que programarlo.
 
-- [Link al reto 10](https://adventjs.dev/challenges/10)
-- [Link al reto anterior](./reto9.md)
-
 ```js
 export default function getCoins(change) {
   // ¡No olvides compartir tu solución en redes!
@@ -21,3 +18,7 @@ export default function getCoins(change) {
   return coins.reverse();
 }
 ```
+
+- [Link al reto 10](https://adventjs.dev/challenges/10)
+- [Link al reto anterior](./reto9.md)
+- [Link al siguiente reto](./reto11.md)
