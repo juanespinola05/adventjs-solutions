@@ -22,3 +22,4 @@ export default function groupBy(collection, it) {
 
 - [Link al reto 9](https://adventjs.dev/challenges/09)
 - [Link al reto anterior](./reto8.md)
+- [Link al siguiente reto](./reto10.md)
