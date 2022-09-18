@@ -20,5 +20,5 @@ export default function listGifts(letter) {
 ```
 
 - [Link al reto 2](https://adventjs.dev/challenges/02)
-- [Link al reto anterior](https://adventjs.dev/challenges/01)
-- [Link al siguiente reto](https://adventjs.dev/challenges/03)
+- [Link al reto anterior](./reto1.md)
+- [Link al siguiente reto](./reto3.md)

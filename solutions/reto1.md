@@ -18,4 +18,4 @@ export default function contarOvejas(ovejas) {
 ```
 
 - [Link al reto 1](https://adventjs.dev/challenges/01)
-- [Link al siguiente reto](https://adventjs.dev/challenges/02)
+- [Link al siguiente reto](./reto1.md)

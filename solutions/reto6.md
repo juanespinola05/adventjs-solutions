@@ -23,5 +23,5 @@ export default function sumPairs(numbers, result) {
 ```
 
 - [Link al reto 6](https://adventjs.dev/challenges/06)
-- [Link al reto anterior](https://adventjs.dev/challenges/05)
-- [Link al siguiente reto](https://adventjs.dev/challenges/07)
+- [Link al reto anterior](./reto5.md)
+- [Link al siguiente reto](./reto7.md)

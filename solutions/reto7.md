@@ -20,5 +20,5 @@ export default function contains(store, product) {
 ```
 
 - [Link al reto 7](https://adventjs.dev/challenges/07)
-- [Link al reto anterior](https://adventjs.dev/challenges/06)
-- [Link al siguiente reto](https://adventjs.dev/challenges/08)
+- [Link al reto anterior](./reto6.md)
+- [Link al siguiente reto](./reto8.md)

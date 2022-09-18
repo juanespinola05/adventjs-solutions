@@ -23,5 +23,5 @@ export default function createXmasTree(height) {
 ```
 
 - [Link al reto 4](https://adventjs.dev/challenges/04)
-- [Link al reto anterior](https://adventjs.dev/challenges/03)
-- [Link al siguiente reto](https://adventjs.dev/challenges/05)
+- [Link al reto anterior](./reto3.md)
+- [Link al siguiente reto](./reto5.md)

@@ -16,5 +16,5 @@ export default function daysToXmas(date) {
 ```
 
 - [Link al reto 5](https://adventjs.dev/challenges/05)
-- [Link al reto anterior](https://adventjs.dev/challenges/04)
-- [Link al siguiente reto](https://adventjs.dev/challenges/06)
+- [Link al reto anterior](./reto4.md)
+- [Link al siguiente reto](./reto6.md)

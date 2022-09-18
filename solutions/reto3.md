@@ -14,5 +14,5 @@ export default function isValid(letter) {
 ```
 
 - [Link al reto 3](https://adventjs.dev/challenges/03)
-- [Link al reto anterior](https://adventjs.dev/challenges/02)
-- [Link al siguiente reto](https://adventjs.dev/challenges/04)
+- [Link al reto anterior](./reto2.md)
+- [Link al siguiente reto](./reto4.md)

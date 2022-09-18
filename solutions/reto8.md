@@ -23,5 +23,5 @@ export default function maxProfit(prices) {
 ```
 
 - [Link al reto 8](https://adventjs.dev/challenges/08)
-- [Link al reto anterior](https://adventjs.dev/challenges/07)
-- [Link al siguiente reto](https://adventjs.dev/challenges/09)
+- [Link al reto anterior](./reto7.md)
+- [Link al siguiente reto](./reto9.md)
