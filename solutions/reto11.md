@@ -6,6 +6,8 @@
 
 ### ¡Este mes hay un montón de peliculones en el cine! Viendo que voy a tener que pasar bastante por taquilla también en 2022, estoy mirando de optimizar mis gastos. ¡Ayúdame!
 
+#### Senior solution 😂 (jk)
+
 ```js
 export default function shouldBuyFidelity(times) {
   // ¡No olvides compartir tu solución en redes!
@@ -19,6 +21,22 @@ export default function shouldBuyFidelity(times) {
     },
     fidelityInitial
   );
+
+  return fidelityTotal < normalTotal;
+}
+```
+
+#### Normal people solution
+
+```js
+export default function shouldBuyFidelity(times) {
+  // ¡No olvides compartir tu solución en redes!
+  const TICKET_PRICE = 12;
+  const normalTotal = times * TICKET_PRICE;
+  let fidelityTotal = 250;
+  for (let i = 1; i <= times; i++) {
+    fidelityTotal += TICKET_PRICE * 0.75 ** i;
+  }
 
   return fidelityTotal < normalTotal;
 }
