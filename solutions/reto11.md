@@ -44,3 +44,4 @@ export default function shouldBuyFidelity(times) {
 
 - [Link al reto 11](https://adventjs.dev/challenges/11)
 - [Link al reto anterior](./reto10.md)
+- [Link al siguiente reto](./reto12.md)
