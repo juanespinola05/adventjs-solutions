@@ -29,3 +29,4 @@ export default function checkSledJump(heights) {
 
 - [Link al reto 15](https://adventjs.dev/challenges/15)
 - [Link al reto anterior](./reto14.md)
+- [Link al siguiente reto](./reto16.md)

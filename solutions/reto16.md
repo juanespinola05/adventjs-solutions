@@ -32,3 +32,4 @@ export default function decodeNumber(symbols) {
 
 - [Link al reto 16](https://adventjs.dev/challenges/16)
 - [Link al reto anterior](./reto15.md)
+- [Link al siguiente reto](./reto17.md)

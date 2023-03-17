@@ -21,3 +21,4 @@ export default function countPackages(carriers, carrierID) {
 
 - [Link al reto 17](https://adventjs.dev/challenges/17)
 - [Link al reto anterior](./reto16.md)
+- [Link al siguiente reto](./reto18.md)
