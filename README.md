@@ -24,6 +24,8 @@
 | 13  | <b>Envuelve regalos con asteriscos</b><br>Estamos a fuego envolviendo regalos... ¡pero necesitamos automatizar esto antes de que los elfos decidan ponerse en huelga! ¡Salva la Navidad (otra vez)! |     🟩     | [Ver solución](./solutions/reto13.md) |
 | 14  | <b>En busca del reno perdido</b><br>En el pueblo de Santa Claus han ido a pasear a los renos y se les ha escapado uno. ¡Madre mía! Ahora a buscarlo. 😿 |     🟨     | [Ver solución](./solutions/reto14.md) |
 | 15  | <b>El salto perfecto</b><br>Estamos optimizando el trineo para que los saltos que da sean lo más óptimos posible. Un amigo que tiene un Tesla nos ha explicado la mejor forma. ¡A ver si sacamos una función para aseguarnos! |     🟨     | [Ver solución](./solutions/reto15.md) |
+| 16  | <b>Decifrando los números...</b><br>Hemos encontrado unas cartas misteriores que contienen un montón de símbolos. Por suerte tenemos el diccionario para decodificarlas. ¡Vamos a ver qué contienen! |     🟩     | [Ver solución](./solutions/reto16.md) |
+| 17  | <b>La locura de enviar paquetes en esta época</b><br>Llega la época de navidades y las empresas de transporte están sacando cuentas del número de paquetes van a poder enviar. ¡A ver cómo lo hacemos! |     🟥     | [Ver solución](./solutions/reto17.md) |
 | ... |                                                                                                                                                                                                                                    |            |                                       |
 
 <div align="center">
