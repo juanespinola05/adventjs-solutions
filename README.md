@@ -27,6 +27,7 @@
 | 16  | <b>Decifrando los números...</b><br>Hemos encontrado unas cartas misteriores que contienen un montón de símbolos. Por suerte tenemos el diccionario para decodificarlas. ¡Vamos a ver qué contienen! |     🟩     | [Ver solución](./solutions/reto16.md) |
 | 17  | <b>La locura de enviar paquetes en esta época</b><br>Llega la época de navidades y las empresas de transporte están sacando cuentas del número de paquetes van a poder enviar. ¡A ver cómo lo hacemos! |     🟥     | [Ver solución](./solutions/reto17.md) |
 | 18  | <b>El sistema operativo de Santa Claus</b><br>Estamos programando un sistema operativo para los ordenadores del taller de Santa Claus... Tenemos que gestionar los nombres de los archivos para que no se repitan. |     🟩     | [Ver solución](./solutions/reto18.md) |
+| 19  | <b>¿Qué deberíamos aprender en Platzi?</b><br>¡Hay un montón de cursos en Platzi! Queremos hacer dos cursos y nuestro tiempo es limitado. ¡Vamos a crear una función para elegir los dos mejores cursos a hacer según nuestro tiempo! |     🟩     | [Ver solución](./solutions/reto19.md) |
 | ... |                                                                                                                                                                                                                                    |            |                                       |
 
 <div align="center">
